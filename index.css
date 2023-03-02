@@ -1,0 +1,25 @@
+h1 {
+   font-size: 30; 
+   color: rgb(17, 17, 147);
+   margin-left: 100;
+   margin-bottom: 50px;
+}
+p {color: blueviolet;
+margin-left: 100;
+margin-bottom: 50px;
+}
+img {
+    margin: left 20px;
+    margin-bottom: 50px;
+}
+div {
+    color: blueviolet;
+    margin-left: 1px;
+    margin-bottom: 20px;
+}
+button {
+    margin-left: 1px;
+}
+.output {
+    color: brown;
+}
